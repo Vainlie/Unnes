@@ -9,6 +9,7 @@
 
 #nomoramplas .card {
     max-width: 750px;
+    box-shadow: 5px 7px 2px #adadad;
 }
 
 #nomoramplas .card .card-body {
@@ -28,6 +29,11 @@
 #teknikpengamplasan {
     background-color: #fae1f4;
 }
+
+#teknikpengamplasan .card {
+    box-shadow: 5px 7px 2px #adadad;
+}
+
 
 #teknikpengamplasan .card .sampingamplas-img {
     max-width: 250px;
