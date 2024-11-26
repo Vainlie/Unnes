@@ -1,0 +1,51 @@
+.body {
+    min-height: auto;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #fae1f4;
+}
+
+#nomoramplas .card {
+    max-width: 750px;
+}
+
+#nomoramplas .card .card-body {
+    background-color: #fae1f4;
+}
+
+.card .collapse .klasifikasi-img {
+    width: 350px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* Teknik Pengamplasan */
+#teknikpengamplasan {
+    background-color: #fae1f4;
+}
+
+#teknikpengamplasan .card .sampingamplas-img {
+    max-width: 250px;
+}
+
+/* Akhie Teknik Pengamplasan */
+
+/* Awalan */
+#pengamplasan .card {
+    background-color: #fae1f4;
+    box-shadow: 5px 7px 2px #adadad;
+}
+
+#pengamplasan .tombol-link {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-style: normal
+}
+
+/* Akhir Awalan */
