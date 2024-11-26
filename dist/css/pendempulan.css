@@ -90,7 +90,8 @@
 }
 
 #metodedempul .metode-img {
-    max-width: 400px;
+    max-width: 350px;
+    max-height: 200px;
     margin-left: auto;
     margin-right: auto;
     transition: 0.5s;
