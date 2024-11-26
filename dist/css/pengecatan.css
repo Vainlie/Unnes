@@ -11,12 +11,18 @@
     background-color: #fae1e1;
 }
 
+#cacat .card {
+    box-shadow: 5px 7px 2px #adadad;
+}
+
 #pengecatan .card {
     background-color: #fae1e1;
+    box-shadow: 5px 7px 2px #adadad;
 }
 
 #tahapan .card {
     background-color: #fae1e1;
+    box-shadow: 5px 7px 2px #adadad;
 }
 
 #tahapan .collapse .card-body {
