@@ -1,0 +1,31 @@
+.body {
+    min-height: auto;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #fae1e1;
+}
+
+#cacat {
+    background-color: #fae1e1;
+}
+
+#pengecatan .card {
+    background-color: #fae1e1;
+}
+
+#tahapan .card {
+    background-color: #fae1e1;
+}
+
+#tahapan .collapse .card-body {
+    background-color: #ffffff;
+}
+
+#pengecatan .tombol-link {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-style: normal
+}
