@@ -4,21 +4,42 @@
 
 .jumbotron {
     padding-top: 2rem;
+}
+
+
+.wave {
+    margin-top: -20px;
+}
+
+/* Background */
+.background-body {
+    background-size: 250px;
+}
+
+/* Akhir Background */
+
+/* Definisi */
+
+#pengecatan .card {
     background-color: #fae1e1;
+    box-shadow: 5px 7px 2px #adadad;
+}
+
+/* Akhir Definisi */
+
+/* Cacat */
+
+#cacat .card {
+    box-shadow: 5px 7px 2px #adadad;
 }
 
 #cacat {
     background-color: #fae1e1;
 }
 
-#cacat .card {
-    box-shadow: 5px 7px 2px #adadad;
-}
+/* Akhir Cacat */
 
-#pengecatan .card {
-    background-color: #fae1e1;
-    box-shadow: 5px 7px 2px #adadad;
-}
+
 
 #tahapan .card {
     background-color: #fae1e1;
