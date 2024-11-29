@@ -50,25 +50,26 @@
 }
 
 #projek .vidio-1 {
+    width: 310px;
+    height: 240px;
     margin-left: auto;
     margin-right: auto;
-    width: 320px;
-    height: 200px;
 }
 
 #projek .vidio-2 {
+    width: 310px;
+    height: 240px;
     margin-left: auto;
     margin-right: auto;
-    width: 320px;
-    height: 200px;
 }
 
 #projek .vidio-3 {
+    width: 310px;
+    height: 240px;
     margin-left: auto;
     margin-right: auto;
-    width: 320px;
-    height: 200px;
 }
+
 
 #projek .bi {
     margin-left: 20px;
