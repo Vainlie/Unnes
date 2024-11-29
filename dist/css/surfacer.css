@@ -4,12 +4,16 @@
 
 .jumbotron {
     padding-top: 2rem;
-    background-color: #97ff9e;
+}
+
+.background-body {
+    background-size: 250px;
 }
 
 /* Survacer1 */
 #surfacer1 .card {
     background-color: #97ff9e;
+    box-shadow: 5px 7px 2px #adadad;
 }
 
 #surfacer1 .tombol-link {
@@ -24,6 +28,11 @@
 /* Survacer2 */
 #surfacer2 {
     background-color: #97ff9e;
+}
+
+#surfacer2 .card {
+    background-color: #ffffff;
+    box-shadow: 5px 7px 2px #adadad;
 }
 
 #surfacer2 .surfacer02-img {
@@ -41,3 +50,18 @@
 }
 
 /* Akhir Survacer2 */
+
+/* WAVE */
+.wave1 {
+    margin-top: -20px;
+}
+
+/* AKHIR WAVE */
+
+/* Footer */
+#footer {
+    background-color: #f1f1f1;
+    opacity: 85%;
+}
+
+/* Akhir Footer */

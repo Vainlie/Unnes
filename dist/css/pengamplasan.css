@@ -4,7 +4,10 @@
 
 .jumbotron {
     padding-top: 2rem;
-    background-color: #fae1f4;
+}
+
+.background-body {
+    background-size: 250px;
 }
 
 #nomoramplas .card {
@@ -55,3 +58,18 @@
 }
 
 /* Akhir Awalan */
+
+/* WAVE */
+.wave1 {
+    margin-top: -20px;
+}
+
+/* AKHIR WAVE */
+
+/* Footer */
+#footer {
+    background-color: #f1f1f1;
+    opacity: 85%;
+}
+
+/* Akhir Footer */

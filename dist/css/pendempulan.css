@@ -4,23 +4,26 @@
 
 .jumbotron {
     padding-top: 2rem;
-    background-color: #e1fae5;
 }
 
-#teknikpendempulan {
-    background-color: #e1fae5;
+.background-body {
+    background-size: 250px;
 }
 
-#pengecatan .card {
-    background-color: #e1fae5;
-}
-
+/* Tahapan */
 #tahapan .card {
     background-color: #e1fae5;
 }
 
 #tahapan .collapse .card-body {
     background-color: #ffffff;
+}
+
+/* Akhir Tahapan */
+
+/* Jenis */
+#jenisdempul {
+    background-color: #e1fae5;
 }
 
 #jenisdempul .card {
@@ -30,6 +33,8 @@
 #jenisdempul .card-footer {
     background-color: #e1fae5;
 }
+
+/* Akhir Jenis */
 
 /* Definisi */
 #pendempulan .tombol-link {
@@ -106,6 +111,10 @@
 /* akhir teknik dempul */
 
 /* metode dempul */
+#metodedempul {
+    background-color: #e1fae5;
+}
+
 #metodedempul .card-body {
     background-color: #e1fae5;
 }
@@ -123,3 +132,22 @@
 }
 
 /* metode dempul */
+
+/* WAVE */
+.wave1 {
+    margin-top: -20px;
+}
+
+.wave2 {
+    margin-top: -20px;
+}
+
+/* AKHIR WAVE */
+
+/* Footer */
+#footer {
+    background-color: #f1f1f1;
+    opacity: 85%;
+}
+
+/* Akhir Footer */
